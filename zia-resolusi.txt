@@ -2,3 +2,6 @@ To do
 
 1. Mencoba github
 2. Review ulang pembelajaran php dasar, OOP Php, konsep MVC
+
+3. Belajar bahasa inggris
+4. Belajar bahasa korea
